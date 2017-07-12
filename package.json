@@ -1,0 +1,16 @@
+{
+  "name": "micro-to-lambda",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Marijnissen",
+  "license": "MIT",
+  "dependencies": {
+    "async-to-gen": "^1.3.3",
+    "micro": "^7.3.3",
+    "query-string": "^4.3.4"
+  }
+}

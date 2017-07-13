@@ -21,4 +21,7 @@ var microToLambda = require('micro-to-lambda');
 var index = require('./index');
 module.exports.time = microToLambda(index);
 ```
-# micro-to-lambda
+## changelog
+
+* 0.2.0 - remove async-to-gen
+* 0.1.0 - initial release

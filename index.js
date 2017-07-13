@@ -1,4 +1,3 @@
-require('async-to-gen/register');
 var Stream = require('stream');
 var { run } = require('micro');
 var qs = require('query-string');
